@@ -20,6 +20,13 @@ created    lipsch hth
 8 0 5 6    聖 holy, sacred; sage
 7 2 5 B    牛 cow, ox, bull
 
+-------    unicode
+
+9 6 1 1    阑 door screen; railing fence
+9 0 6 1    遡 go upstream; trace source; formerly
+6 1 9 1    憑 lean on, depend on, rely on
+6 9 0 1    椁 outer-coffin; vault
+
 =======
 
-zerox(4)   0x3DB08377862D8056725B
+zerox(4)   0x3DB08377862D8056725B9611906161916901
